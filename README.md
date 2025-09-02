@@ -1,8 +1,8 @@
+
+![Header](https://vt5eyv1e1r.ufs.sh/f/Ozz7E6ivPF5CdLA36c4FR0356yAiCutPoW7QSHBYOqnbXmDT)
+
 # Hey there! 👋 I'm Aveek Patra
-
-**Full-Stack Developer | SaaS Builder | AI Enthusiast**
-
-Turning complex Figma designs into blazing-fast web experiences from Prague 🇨🇿
+# Hey there! 👋 I'm Aveek Patra
 
 ## 🚀 What I Build
 
@@ -28,13 +28,6 @@ const aveek = {
 - ☁️ Mastering AWS cloud architecture and DevOps
 - 🚀 Exploring the intersection of AI and web development
 - 📚 Computer Science student at Czech University of Life Sciences
-
-## 💡 Fun Facts
-
-- 🎨 I turn Figma mockups into pixel-perfect reality
-- 🐍 Python automation scripts are my secret weapon  
-- 📊 Geek out over web analytics and performance optimization
-- 🐧 Active in CZU Linux User Group (because who doesn't love penguins?)
 
 ---
 
