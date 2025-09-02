@@ -25,9 +25,6 @@ const aveek = {
 
 ---
 
-## 📊 GitHub Stats
-![Aveek's GitHub stats](https://github-readme-stats.vercel.app/api?username=aveekpatra&show_icons=true&theme=radical)
-
 *"Code is poetry, bugs are just typos!"* ✨
 
-📧 aveekpatra2004@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/aveekpatra)
+📧 aveekpatra2004@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/aveekpatra) | 🔗 [Twitter(X)](https://x.com/aveek_patra)
