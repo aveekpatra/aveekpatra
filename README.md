@@ -1,6 +1,5 @@
 
 ![Header](https://vt5eyv1e1r.ufs.sh/f/Ozz7E6ivPF5C3h7zMOk2Vf7jBMa0mdrtR9bwlvuyFUq4p6kJ)
-# Hey there! 👋 I'm Aveek Patra
 
 ## 🚀 What I Build
 
@@ -17,9 +16,6 @@ const aveek = {
 }
 ```
 
-## 📊 GitHub Stats
-![Aveek's GitHub stats](https://github-readme-stats.vercel.app/api?username=aveekpatra&show_icons=true&theme=radical)
-
 ## 🎯 Current Focus
 
 - 🤖 Building AI-powered applications with cutting-edge tech
@@ -28,6 +24,9 @@ const aveek = {
 - 📚 Computer Science student at Czech University of Life Sciences
 
 ---
+
+## 📊 GitHub Stats
+![Aveek's GitHub stats](https://github-readme-stats.vercel.app/api?username=aveekpatra&show_icons=true&theme=radical)
 
 *"Code is poetry, bugs are just typos!"* ✨
 
