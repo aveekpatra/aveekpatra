@@ -1,35 +1,43 @@
-# Hey there! 👋 I'm Aveek
+# Hey there! 👋 I'm Aveek Patra
 
-**Full-Stack Developer | SaaS Builder | Automation Enthusiast**
+**Full-Stack Developer | SaaS Builder | AI Enthusiast**
 
-I turn coffee into code and Figma designs into pixel-perfect web experiences ✨
+Turning complex Figma designs into blazing-fast web experiences from Prague 🇨🇿
 
-## 🚀 What I Do
+## 🚀 What I Build
 
-Building modern web applications with **React**, **TypeScript**, and **Node.js** while crafting smooth animations with **Framer Motion** and styling with **Tailwind CSS**. I love creating SaaS products that solve real problems and automating the boring stuff with Python.
+I craft modern web applications with **React**, **TypeScript**, and **Next.js** while building intelligent solutions powered by AI. Love creating SaaS products that solve real problems and automating the boring stuff with Python.
 
-**Current Stack:**
+**My Arsenal:**
 ```javascript
-const mySkills = {
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-  backend: ["Node.js", "Express", "PostgreSQL", "Prisma", "BetterAuth"],
-  cloud: ["AWS", "Docker", "Vercel", "CI/CD"],
+const aveek = {
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "ShadCN"],
+  backend: ["Node.js", "Nest.js", "PostgreSQL", "Prisma", "Convex"],
+  ai: ["AWS Bedrock", "AI integrations", "Smart automations"],
+  cloud: ["AWS", "Docker", "Kubernetes", "Vercel"],
+  projects: "15+ and counting..."
 }
 ```
 
+## 📊 GitHub Stats
+![Aveek's GitHub stats](https://github-readme-stats.vercel.app/api?username=aveekpatra&show_icons=true&theme=radical)
+
+## 🎯 Current Focus
+
+- 🤖 Building AI-powered applications with cutting-edge tech
+- ☁️ Mastering AWS cloud architecture and DevOps
+- 🚀 Exploring the intersection of AI and web development
+- 📚 Computer Science student at Czech University of Life Sciences
+
 ## 💡 Fun Facts
 
-- 🎨 I secretly enjoy the puzzle of making designs responsive
-- 🐍 Python scripts are my productivity superpower
-- ☁️ Currently diving deep into AWS and DevOps
-- 📊 I geek out over web analytics and performance metrics
-
-## 🌱 Always Learning
-
-From marketing to full-stack development, I believe in continuous growth. Currently expanding my cloud engineering skills and exploring the endless possibilities of modern web development.
+- 🎨 I turn Figma mockups into pixel-perfect reality
+- 🐍 Python automation scripts are my secret weapon  
+- 📊 Geek out over web analytics and performance optimization
+- 🐧 Active in CZU Linux User Group (because who doesn't love penguins?)
 
 ---
 
-*"Great code is like a good joke – it needs no explanation!"* 😄
+*"Code is poetry, bugs are just typos!"* ✨
 
-📫 Let's connect and build something amazing together!
+📧 aveekpatra2004@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/aveekpatra)
