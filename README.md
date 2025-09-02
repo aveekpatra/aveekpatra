@@ -1,5 +1,7 @@
 
-![Header]([https://vt5eyv1e1r.ufs.sh/f/Ozz7E6ivPF5CdLA36c4FR0356yAiCutPoW7QSHBYOqnbXmDT])
+![Header](https://vt5eyv1e1r.ufs.sh/f/Ozz7E6ivPF5C3h7zMOk2Vf7jBMa0mdrtR9bwlvuyFUq4p6kJ)
+
+# Hey there! 👋 I'm Aveek Patra
 
 # Hey there! 👋 I'm Aveek Patra
 
