@@ -10,7 +10,7 @@ I craft modern web applications with **React**, **TypeScript**, and **Next.js** 
 const aveek = {
   frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "ShadCN"],
   backend: ["Node.js", "Nest.js", "PostgreSQL", "Prisma", "Convex"],
-  ai: ["AWS Bedrock", "AI integrations", "Smart automations"],
+  ai: ["AWS Bedrock", "AI integrations", "RAG", "Smart automations"],
   cloud: ["AWS", "Docker", "Kubernetes", "Vercel"],
   projects: "15+ and counting..."
 }
