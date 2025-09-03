@@ -7,7 +7,7 @@ I craft modern web applications with **React**, **TypeScript**, and **Next.js** 
 
 **My Arsenal:**
 ```javascript
-const aveek = {
+const myTools = {
   frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "ShadCN"],
   backend: ["Node.js", "Nest.js", "PostgreSQL", "Prisma", "Convex"],
   ai: ["AWS Bedrock", "AI integrations", "RAG", "Smart automations"],
