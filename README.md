@@ -1,30 +1,11 @@
-
 ![Header](https://vt5eyv1e1r.ufs.sh/f/Ozz7E6ivPF5C3h7zMOk2Vf7jBMa0mdrtR9bwlvuyFUq4p6kJ)
 
-## 🚀 What I Build
+I'm an engineer with an artist's heart. I love the whole of building a product: figuring out who it's for, walking through every step of their experience, and building every layer underneath it, from the interface down to the backend. AI and automation are the tools I reach for first.
 
-I craft modern web applications with **React**, **TypeScript**, and **Next.js** while building intelligent solutions powered by AI. Love creating SaaS products that solve real problems and automating the boring stuff with Python.
+Right now that goes into [Aturno](https://aturno.ai), which I co-founded with Martin Slavík and where I'm the CTO. We build AI agents for Czech and EU law that research, draft and carry legal work from start to finish.
 
-**My Arsenal:**
-```javascript
-const myTools = {
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "ShadCN"],
-  backend: ["Node.js", "Nest.js", "PostgreSQL", "Prisma", "Convex"],
-  ai: ["AWS Bedrock", "AI integrations", "RAG", "Smart automations"],
-  cloud: ["AWS", "Docker", "Kubernetes", "Vercel"],
-  projects: "15+ and counting..."
-}
-```
+When I'm not doing that, I build my own tools in the open. The latest is [Speek](https://github.com/aveekpatra/speek), a voice assistant for macOS that lives in the notch.
 
-## 🎯 Current Focus
+I'm heavily inspired by Jony Ive's design philosophy: the hard work should disappear, and what's left should feel simple, even obvious.
 
-- 🤖 Building AI-powered applications with cutting-edge tech
-- ☁️ Mastering AWS cloud architecture and DevOps
-- 🚀 Exploring the intersection of AI and web development
-- 📚 Computer Science student at Czech University of Life Sciences
-
----
-
-*"Code is poetry, bugs are just typos!"* ✨
-
-📧 aveekpatra2004@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/aveekpatra) | 🔗 [Twitter(X)](https://x.com/aveek_patra)
+[aveek.site](https://aveek.site) · [LinkedIn](https://www.linkedin.com/in/aveek-patra/) · [X](https://x.com/aveek_patra)
