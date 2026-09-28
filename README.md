@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://aveek.site">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hey+there%2C+I'm+Aveek;Building+AI+agents+for+Czech+%26+EU+law;Talk+to+your+Mac+with+Speek;Engineer+with+an+artist's+heart;Based+in+Prague" alt="Typing intro" />
+<a href="https://aturno.ai">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hey+there%2C+I%27m+Aveek;CTO+at+Aturno;Based+in+Prague" alt="Typing intro" />
 </a>
 
 <p>
