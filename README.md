@@ -66,25 +66,3 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-
-## <img src="assets/icons/stats-chart.svg" width="22" height="22" align="absmiddle" alt="" /> GitHub stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aveekpatra&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-
-</div>
-
-## <img src="assets/icons/pulse.svg" width="22" height="22" align="absmiddle" alt="" /> Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aveekpatra/aveekpatra/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aveekpatra/aveekpatra/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/aveekpatra/aveekpatra/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7768e,50:bb9af7,100:7aa2f7&height=110&section=footer" width="100%" alt="" />
