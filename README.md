@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://aveek.site">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hey+there%2C+I'm+Aveek+%F0%9F%91%8B;Building+AI+agents+for+Czech+%26+EU+law+%E2%9A%96%EF%B8%8F;Talk+to+your+Mac+with+Speek+%F0%9F%8E%99%EF%B8%8F;Engineer+with+an+artist's+heart+%F0%9F%8E%A8;Based+in+Prague+%F0%9F%87%A8%F0%9F%87%BF" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hey+there%2C+I'm+Aveek;Building+AI+agents+for+Czech+%26+EU+law;Talk+to+your+Mac+with+Speek;Engineer+with+an+artist's+heart;Based+in+Prague" alt="Typing intro" />
 </a>
 
 <p>
@@ -17,27 +17,27 @@
 
 ---
 
-## 👋 About me
+## <img src="assets/icons/hand-right.svg" width="22" height="22" alt="" /> About me
 
-- 🔭 Co-founder & CTO at [**Aturno**](https://aturno.ai): AI agents that research, draft and carry legal work from start to finish, for Czech and EU law
-- 🧠 AI engineer at **Atollon**: agent pipelines and RAG, mostly in Python and Go
-- 🎙️ Building [**Speek**](https://github.com/aveekpatra/speek): a voice assistant for macOS that lives in the notch
-- 🎓 Studying Informatics at the Czech University of Life Sciences Prague
-- 🎨 Engineer with an artist's heart, heavily inspired by Jony Ive: the hard work should disappear
-- 📍 Prague, Czechia 🇨🇿
-- 💬 Ask me about AI agents, RAG, legal tech, or making software feel simple
+- <img src="assets/icons/telescope.svg" width="20" height="20" alt="" /> Co-founder & CTO at [**Aturno**](https://aturno.ai): AI agents that research, draft and carry legal work from start to finish, for Czech and EU law
+- <img src="assets/icons/hardware-chip.svg" width="20" height="20" alt="" /> AI engineer at **Atollon**: agent pipelines and RAG, mostly in Python and Go
+- <img src="assets/icons/mic.svg" width="20" height="20" alt="" /> Building [**Speek**](https://github.com/aveekpatra/speek): a voice assistant for macOS that lives in the notch
+- <img src="assets/icons/school.svg" width="20" height="20" alt="" /> Studying Informatics at the Czech University of Life Sciences Prague
+- <img src="assets/icons/color-palette.svg" width="20" height="20" alt="" /> Engineer with an artist's heart, heavily inspired by Jony Ive: the hard work should disappear
+- <img src="assets/icons/location.svg" width="20" height="20" alt="" /> Prague, Czechia
+- <img src="assets/icons/chatbubbles.svg" width="20" height="20" alt="" /> Ask me about AI agents, RAG, legal tech, or making software feel simple
 
 
-## 🚀 Things I've built
+## <img src="assets/icons/rocket.svg" width="22" height="22" alt="" /> Things I've built
 
 | | Project | What it is |
 |---|---|---|
-| ⚖️ | [**Aturno**](https://aturno.ai) | AI workspace for lawyers: research, contract review, drafting, with citations you can check |
-| 🎙️ | [**Speek**](https://github.com/aveekpatra/speek) | Talk to your Mac. It listens, writes, and gets things done |
-| 🗂️ | [**Lexyos**](https://lexyos.com) | Keyboard-first tasks, projects and calendar with an AI agent |
-| 🦊 | [**Renko**](https://renko.app) | AI domain name finder with live availability and prices |
+| <img src="assets/icons/briefcase.svg" width="20" height="20" alt="" /> | [**Aturno**](https://aturno.ai) | AI workspace for lawyers: research, contract review, drafting, with citations you can check |
+| <img src="assets/icons/mic.svg" width="20" height="20" alt="" /> | [**Speek**](https://github.com/aveekpatra/speek) | Talk to your Mac. It listens, writes, and gets things done |
+| <img src="assets/icons/checkbox.svg" width="20" height="20" alt="" /> | [**Lexyos**](https://lexyos.com) | Keyboard-first tasks, projects and calendar with an AI agent |
+| <img src="assets/icons/globe.svg" width="20" height="20" alt="" /> | [**Renko**](https://renko.app) | AI domain name finder with live availability and prices |
 
-## 🛠️ Tech stack
+## <img src="assets/icons/construct.svg" width="22" height="22" alt="" /> Tech stack
 
 **Languages**
 
@@ -82,7 +82,7 @@
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
-## 📊 GitHub stats
+## <img src="assets/icons/stats-chart.svg" width="22" height="22" alt="" /> GitHub stats
 
 <div align="center">
 
@@ -90,7 +90,7 @@
 
 </div>
 
-## 🐍 Contribution snake
+## <img src="assets/icons/pulse.svg" width="22" height="22" alt="" /> Contribution snake
 
 <div align="center">
 
