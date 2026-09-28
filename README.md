@@ -17,27 +17,27 @@
 
 ---
 
-## <img src="assets/icons/hand-right.svg" width="22" height="22" alt="" /> About me
+## <img src="assets/icons/hand-right.svg" width="22" height="22" align="absmiddle" alt="" /> About me
 
-- <img src="assets/icons/telescope.svg" width="20" height="20" alt="" /> Co-founder & CTO at [**Aturno**](https://aturno.ai): AI agents that research, draft and carry legal work from start to finish, for Czech and EU law
-- <img src="assets/icons/hardware-chip.svg" width="20" height="20" alt="" /> AI engineer at **Atollon**: agent pipelines and RAG, mostly in Python and Go
-- <img src="assets/icons/mic.svg" width="20" height="20" alt="" /> Building [**Speek**](https://github.com/aveekpatra/speek): a voice assistant for macOS that lives in the notch
-- <img src="assets/icons/school.svg" width="20" height="20" alt="" /> Studying Informatics at the Czech University of Life Sciences Prague
-- <img src="assets/icons/color-palette.svg" width="20" height="20" alt="" /> Engineer with an artist's heart, heavily inspired by Jony Ive: the hard work should disappear
-- <img src="assets/icons/location.svg" width="20" height="20" alt="" /> Prague, Czechia
-- <img src="assets/icons/chatbubbles.svg" width="20" height="20" alt="" /> Ask me about AI agents, RAG, legal tech, or making software feel simple
+- <img src="assets/icons/telescope.svg" width="18" height="18" align="absmiddle" alt="" /> Co-founder & CTO at [**Aturno**](https://aturno.ai): AI agents that research, draft and carry legal work from start to finish, for Czech and EU law
+- <img src="assets/icons/hardware-chip.svg" width="18" height="18" align="absmiddle" alt="" /> AI engineer at **Atollon**: agent pipelines and RAG, mostly in Python and Go
+- <img src="assets/icons/mic.svg" width="18" height="18" align="absmiddle" alt="" /> Building [**Speek**](https://github.com/aveekpatra/speek): a voice assistant for macOS that lives in the notch
+- <img src="assets/icons/school.svg" width="18" height="18" align="absmiddle" alt="" /> Studying Informatics at the Czech University of Life Sciences Prague
+- <img src="assets/icons/color-palette.svg" width="18" height="18" align="absmiddle" alt="" /> Engineer with an artist's heart, heavily inspired by Jony Ive: the hard work should disappear
+- <img src="assets/icons/location.svg" width="18" height="18" align="absmiddle" alt="" /> Prague, Czechia
+- <img src="assets/icons/chatbubbles.svg" width="18" height="18" align="absmiddle" alt="" /> Ask me about AI agents, RAG, legal tech, or making software feel simple
 
 
-## <img src="assets/icons/rocket.svg" width="22" height="22" alt="" /> Things I've built
+## <img src="assets/icons/rocket.svg" width="22" height="22" align="absmiddle" alt="" /> Things I've built
 
 | | Project | What it is |
 |---|---|---|
-| <img src="assets/icons/briefcase.svg" width="20" height="20" alt="" /> | [**Aturno**](https://aturno.ai) | AI workspace for lawyers: research, contract review, drafting, with citations you can check |
-| <img src="assets/icons/mic.svg" width="20" height="20" alt="" /> | [**Speek**](https://github.com/aveekpatra/speek) | Talk to your Mac. It listens, writes, and gets things done |
-| <img src="assets/icons/checkbox.svg" width="20" height="20" alt="" /> | [**Lexyos**](https://lexyos.com) | Keyboard-first tasks, projects and calendar with an AI agent |
-| <img src="assets/icons/globe.svg" width="20" height="20" alt="" /> | [**Renko**](https://renko.app) | AI domain name finder with live availability and prices |
+| <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Aturno**](https://aturno.ai) | AI workspace for lawyers: research, contract review, drafting, with citations you can check |
+| <img src="assets/icons/mic.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Speek**](https://github.com/aveekpatra/speek) | Talk to your Mac. It listens, writes, and gets things done |
+| <img src="assets/icons/checkbox.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Lexyos**](https://lexyos.com) | Keyboard-first tasks, projects and calendar with an AI agent |
+| <img src="assets/icons/globe.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Renko**](https://renko.app) | AI domain name finder with live availability and prices |
 
-## <img src="assets/icons/construct.svg" width="22" height="22" alt="" /> Tech stack
+## <img src="assets/icons/construct.svg" width="22" height="22" align="absmiddle" alt="" /> Tech stack
 
 **Languages**
 
@@ -67,22 +67,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-**AI**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openrouter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-
-## <img src="assets/icons/stats-chart.svg" width="22" height="22" alt="" /> GitHub stats
+## <img src="assets/icons/stats-chart.svg" width="22" height="22" align="absmiddle" alt="" /> GitHub stats
 
 <div align="center">
 
@@ -90,7 +75,7 @@
 
 </div>
 
-## <img src="assets/icons/pulse.svg" width="22" height="22" alt="" /> Contribution snake
+## <img src="assets/icons/pulse.svg" width="22" height="22" align="absmiddle" alt="" /> Contribution snake
 
 <div align="center">
 
