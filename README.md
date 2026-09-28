@@ -66,3 +66,13 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+## <img src="assets/icons/calendar.svg" width="22" height="22" align="absmiddle" alt="" /> Contributions
+
+<a href="https://cdn.jsdelivr.net/gh/aveekpatra/aveekpatra@output/heatmap.svg" title="Open to hover any day">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aveekpatra/aveekpatra/output/heatmap.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aveekpatra/aveekpatra/output/heatmap-light.svg" />
+    <img alt="Contribution heatmap" src="https://raw.githubusercontent.com/aveekpatra/aveekpatra/output/heatmap.svg" width="100%" />
+  </picture>
+</a>
