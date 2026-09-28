@@ -32,7 +32,7 @@ const themes = {
 }
 
 const cell = 11, gap = 3, step = cell + gap
-const left = 34, top = 44
+const left = 34, top = 20
 const weeks = cal.weeks
 const width = left + weeks.length * step + 24
 const height = top + 7 * step + 34
@@ -85,7 +85,6 @@ function render(theme) {
   @keyframes in { from { opacity: 0; transform: scale(0.4); } to { opacity: 1; transform: scale(1); } }
   @media (prefers-reduced-motion: reduce) { .c { animation: none; opacity: 1; } }
 </style>
-<text x="${left}" y="16" class="title">${cal.totalContributions.toLocaleString('en-US')} contributions in the last year</text>
 ${parts.join('\n')}
 </svg>
 `
