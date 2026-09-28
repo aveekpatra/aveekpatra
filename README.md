@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:f7768e&height=180&section=header&text=Aveek%20Patra&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20AI%20engineer%20%E2%80%A2%20Co-founder%20%26%20CTO%20%40%20Aturno&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aveek Patra" />
-
 <a href="https://aveek.site">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hey+there%2C+I'm+Aveek+%F0%9F%91%8B;Building+AI+agents+for+Czech+%26+EU+law+%E2%9A%96%EF%B8%8F;Talk+to+your+Mac+with+Speek+%F0%9F%8E%99%EF%B8%8F;Engineer+with+an+artist's+heart+%F0%9F%8E%A8;Based+in+Prague+%F0%9F%87%A8%F0%9F%87%BF" alt="Typing intro" />
 </a>
@@ -21,7 +19,7 @@
 
 ## 👋 About me
 
-<img align="right" width="300" src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy.gif" alt="Netrunner hacking" />
+<img align="right" width="300" src="assets/netrunner.gif" alt="Netrunner hacking" />
 
 - 🔭 Co-founder & CTO at [**Aturno**](https://aturno.ai): AI agents that research, draft and carry legal work from start to finish, for Czech and EU law
 - 🧠 AI engineer at **Atollon**: agent pipelines and RAG, mostly in Python and Go
