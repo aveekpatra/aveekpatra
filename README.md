@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://aveek.site"><img src="https://img.shields.io/badge/aveek.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/aveek-patra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aveek-patra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyAxOCAxOCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE4LjMzNSAxOC4zMzlIMTUuNjd2LTQuMTc3YzAtLjk5Ni0uMDItMi4yNzgtMS4zOS0yLjI3OC0xLjM4OSAwLTEuNjAxIDEuMDg0LTEuNjAxIDIuMjA1djQuMjVoLTIuNjY2VjkuNzVoMi41NnYxLjE3aC4wMzVjLjM1OC0uNjc0IDEuMjI4LTEuMzg3IDIuNTI4LTEuMzg3IDIuNyAwIDMuMiAxLjc3OCAzLjIgNC4wOTF2NC43MTV6TTcuMDAzIDguNTc1YTEuNTQ2IDEuNTQ2IDAgMDEtMS41NDgtMS41NDkgMS41NDggMS41NDggMCAxMTEuNTQ3IDEuNTQ5em0xLjMzNiA5Ljc2NEg1LjY2NlY5Ljc1SDguMzR2OC41ODl6TTE5LjY3IDNINC4zMjlDMy41OTMgMyAzIDMuNTggMyA0LjI5N3YxNS40MDZDMyAyMC40MiAzLjU5NCAyMSA0LjMyOCAyMWgxNS4zMzhDMjAuNCAyMSAyMSAyMC40MiAyMSAxOS43MDNWNC4yOTdDMjEgMy41OCAyMC40IDMgMTkuNjY2IDNoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
   <a href="https://x.com/aveek_patra"><img src="https://img.shields.io/badge/@aveek__patra-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:aveek@aturno.ai"><img src="https://img.shields.io/badge/aveek@aturno.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
