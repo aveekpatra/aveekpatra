@@ -15,9 +15,7 @@
 
 </div>
 
----
-
-## <img src="assets/icons/hand-right.svg" width="22" height="22" align="absmiddle" alt="" /> About me
+### <img src="assets/icons/hand-right.svg" width="22" height="22" align="absmiddle" alt="" /> About me
 
 - <img src="assets/icons/telescope.svg" width="18" height="18" align="absmiddle" alt="" /> Co-founder & CTO at [**Aturno**](https://aturno.ai): AI agents that research, draft and carry legal work from start to finish, for Czech and EU law
 - <img src="assets/icons/hardware-chip.svg" width="18" height="18" align="absmiddle" alt="" /> AI engineer at **Atollon**: agent pipelines and RAG, mostly in Python and Go
@@ -27,8 +25,7 @@
 - <img src="assets/icons/location.svg" width="18" height="18" align="absmiddle" alt="" /> Prague, Czechia
 - <img src="assets/icons/chatbubbles.svg" width="18" height="18" align="absmiddle" alt="" /> Ask me about AI agents, RAG, legal tech, or making software feel simple
 
-
-## <img src="assets/icons/rocket.svg" width="22" height="22" align="absmiddle" alt="" /> Things I've built
+### <img src="assets/icons/rocket.svg" width="22" height="22" align="absmiddle" alt="" /> Things I've built
 
 | | Project | What it is |
 |---|---|---|
@@ -37,7 +34,7 @@
 | <img src="assets/icons/checkbox.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Lexyos**](https://lexyos.com) | Keyboard-first tasks, projects and calendar with an AI agent |
 | <img src="assets/icons/globe.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Renko**](https://renko.app) | AI domain name finder with live availability and prices |
 
-## <img src="assets/icons/construct.svg" width="22" height="22" align="absmiddle" alt="" /> Tech stack
+### <img src="assets/icons/construct.svg" width="22" height="22" align="absmiddle" alt="" /> Tech stack
 
 **Languages**
 
@@ -67,7 +64,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-## <img src="assets/icons/calendar.svg" width="22" height="22" align="absmiddle" alt="" /> Contributions
+### <img src="assets/icons/calendar.svg" width="22" height="22" align="absmiddle" alt="" /> Contributions
 
 <a href="https://cdn.jsdelivr.net/gh/aveekpatra/aveekpatra@output/heatmap.svg" title="Open to hover any day">
   <picture>
