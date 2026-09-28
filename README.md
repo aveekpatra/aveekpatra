@@ -19,8 +19,6 @@
 
 ## 👋 About me
 
-<img align="right" width="300" src="assets/netrunner.gif" alt="Netrunner hacking" />
-
 - 🔭 Co-founder & CTO at [**Aturno**](https://aturno.ai): AI agents that research, draft and carry legal work from start to finish, for Czech and EU law
 - 🧠 AI engineer at **Atollon**: agent pipelines and RAG, mostly in Python and Go
 - 🎙️ Building [**Speek**](https://github.com/aveekpatra/speek): a voice assistant for macOS that lives in the notch
@@ -29,7 +27,6 @@
 - 📍 Prague, Czechia 🇨🇿
 - 💬 Ask me about AI agents, RAG, legal tech, or making software feel simple
 
-<br clear="right" />
 
 ## 🚀 Things I've built
 
