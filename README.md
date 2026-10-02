@@ -31,6 +31,7 @@
 |---|---|---|
 | <img src="assets/icons/briefcase.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Aturno**](https://aturno.ai) | AI workspace for lawyers: research, contract review, drafting, with citations you can check |
 | <img src="assets/icons/mic.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Speek**](https://github.com/aveekpatra/speek) | Talk to your Mac. It listens, writes, and gets things done |
+| <img src="assets/icons/terminal.svg" width="18" height="18" align="absmiddle" alt="" /> | [**cc-patcher**](https://github.com/aveekpatra/cc-patcher) | One checklist to set up Claude Code: skills, config and patches, on any machine |
 | <img src="assets/icons/checkbox.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Lexyos**](https://lexyos.com) | Keyboard-first tasks, projects and calendar with an AI agent |
 | <img src="assets/icons/globe.svg" width="18" height="18" align="absmiddle" alt="" /> | [**Renko**](https://renko.app) | AI domain name finder with live availability and prices |
 
